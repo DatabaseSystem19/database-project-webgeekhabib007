@@ -1,7 +1,6 @@
+# Database Project
 
-```
- Database Project
- 
+``` 
  Project Name: MovieStreaming Database
  Performed By: Habibur Rahman(1907036)
 ```
