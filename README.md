@@ -681,3 +681,9 @@ end;
 
  
  ```
+- ### Some query results
+<img src="images/q1.png">
+<img src="images/q2.png">
+<img src="images/q3.png">
+<img src="images/q4.png">
+<img src="images/q5.png">
