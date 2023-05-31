@@ -56,5 +56,5 @@ Movie_ID : Foreign Key
 ```
 
 ##Schema Diagram:
-![Schema Diagram]('https://github.com/DatabaseSystem19/database-project-webgeekhabib007/blob/main/Database%20project%20schema.png')
+![Schema Diagram](https://github.com/DatabaseSystem19/database-project-webgeekhabib007/blob/main/Database%20project%20schema.png)
 
